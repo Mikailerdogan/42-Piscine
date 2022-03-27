@@ -1,0 +1,6 @@
+Credentials cache: API:AE8EB62A-ED43-4918-BA36-D386F2C4469C
+        Principal: mierdoga@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Feb  9 14:41:14 2022  Feb 10 00:41:14 2022  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Feb  9 14:41:15 2022  Feb 10 00:41:14 2022  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
